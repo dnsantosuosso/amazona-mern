@@ -1,2 +1,2 @@
-# amazona-mern
-Amazona eCommerce site using MERN stack
+# Amazona eCommerce Site
+A copy of Amazon website site using MERN stack (MongoDB, Express, React and Node).

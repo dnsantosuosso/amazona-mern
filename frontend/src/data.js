@@ -1,8 +1,10 @@
+//define data as an object
 const data = {
+  //create array of products
   products: [
     {
       name: 'Nike Slim shirt',
-      slug: 'nike-slim-shirt',
+      slug: 'nike-slim-shirt', //URL friendly
       category: 'Shirts',
       image: '/images/p1.jpg', // 679px × 829px
       price: 120,
